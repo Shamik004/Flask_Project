@@ -1,7 +1,6 @@
 Flask==2.2.3
-firebase-admin==6.0.1
-opencv-python-headless==4.8.0.74
 numpy==1.24.2
 mediapipe==0.10.3
 gunicorn==21.2.0
-python-dotenv
+firebase-admin==6.0.1
+opencv-python-headless==4.8.0.74
