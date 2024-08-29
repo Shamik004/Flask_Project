@@ -2,5 +2,5 @@ Flask
 numpy
 mediapipe
 gunicorn
-firebase-admin
 opencv
+firebase-admin
