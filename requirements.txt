@@ -1,6 +1,6 @@
-Flask
-numpy
-mediapipe
+Flask==2.2.5
+numpy==1.26.4
+mediapipe==0.10.14
 gunicorn
-opencv-python
-firebase-admin
+opencv-python==4.10.0.84
+firebase-admin==6.5.0
